@@ -6,17 +6,17 @@ O software utiliza componentes de interface gráfica da biblioteca SWING, como: 
 
 
 ## 📌 Índice
-- [Funcionalidades](#📋-funcionalidades)
-- [Layout](#🖥️-layout)
-    - [Tela Principal](#📂-tela-principal)
-    - [Tela de Livro](#📂-tela-de-livro)
-    - [Tela de Cliente](#📂-tela-de-cliente)
-    - [Tela de Empréstimo](#📂-tela-de-empréstimo)
-    - [Tela de Devolução](#📂-tela-de-devolução)
-    - [Tela de Pesquisa](#📂-tela-de-pesquisa)
-    - [Tela de Relatório](#📂-tela-de-relatório)
+- [Funcionalidades](#-funcionalidades)
+- [Layout](#-layout)
+    - [Tela Principal](#-tela-principal)
+    - [Tela de Livro](#-tela-de-livro)
+    - [Tela de Cliente](#-tela-de-cliente)
+    - [Tela de Empréstimo](#-tela-de-empréstimo)
+    - [Tela de Devolução](#-tela-de-devolução)
+    - [Tela de Pesquisa](#-tela-de-pesquisa)
+    - [Tela de Relatório](#-tela-de-relatório)
 - [Tecnologia e Ferramenta utilizadas](#tecnologia-e-ferramenta-utilizadas)
-- [Autores](#📝-autores)
+- [Autores](#-autores)
 
 ## 📋 Funcionalidades
 - Cadastrar: livros, clientes, empréstimos e devoluções. 
@@ -32,7 +32,7 @@ O software utiliza componentes de interface gráfica da biblioteca SWING, como: 
 ## 🖥️ Layout
 
 ### 📂 Tela Principal
-<img src="./assets/TelaPrincipal.jpeg" width="375" alt="Java" />
+<img src="./assets/TelaPrincipal.jpeg" width="375" alt="Tela principal" />
 
 ### 📂 Tela de Livro
 <img src="./assets/TelaLivro.jpeg" width="375" alt="Tela de livro" />
@@ -42,7 +42,6 @@ O software utiliza componentes de interface gráfica da biblioteca SWING, como: 
 
 ### 📂 Tela de Empréstimo
 <img src="./assets/TelaEmprestimo.jpeg" width="375" alt="Tela de empréstimo" />
-
 
 ### 📂 Tela de Devolução
 <img src="./assets/TelaDevolucao.jpeg" width="375" alt="Tela de devolução" />
@@ -56,8 +55,7 @@ O software utiliza componentes de interface gráfica da biblioteca SWING, como: 
 
 ## Tecnologia e Ferramenta utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" alt="Java" />
-<img src="./assets/netBeans.png" width="55" alt="NetBeans" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" alt="Java" /> <img src="./assets/netBeans.png" width="55" alt="NetBeans" />
 
 
 ## 📝 Autores
